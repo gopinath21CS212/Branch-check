@@ -1,0 +1,24 @@
+.course-component{
+    background-color: blanchedalmond;
+    padding: 5px;
+    width: 200px;
+    height: 350px;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+    color: black;
+    margin: 80px;
+}
+
+.course-component img{
+    width: 180px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.course-component {
+  /* display: flex; */
+  /* justify-content: center; 
+  align-items: center;      */
+  /* height: 100vh;   */
+}
