@@ -10,8 +10,15 @@ function App() {
 
     const [courses, setCourses] = useState([]);
 
+
+   
+    
+
+
+
+
     const images = {
-      "java": java,
+      "java": javak,
       "react": react,
       "springboot": springboot,
       "html": html
